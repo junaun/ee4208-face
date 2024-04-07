@@ -1,0 +1,3 @@
+facenet-pytorch
+tqdm
+opencv-python
